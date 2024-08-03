@@ -13,4 +13,22 @@
 
 html {
   font-size: 62.5%;
+  font-family: "Outfit", sans-serif;
+}
+
+.qr-card {
+display: flex;
+flex-direction: column;
+}
+
+.qr-card__image {
+  width: 50px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
 }
