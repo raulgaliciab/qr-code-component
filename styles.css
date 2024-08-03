@@ -1,0 +1,16 @@
+:root {
+  --White: #FFFFFF;
+  --Slate-300: #D5E1EF;
+  --Slate-500: #68778D;
+  --Slate-900: #1F314F;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
